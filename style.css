@@ -2,3 +2,8 @@ label
 {
     font-family: 'Rampart One', cursive;
 }
+
+#label1{
+    float: right;
+    float: top;
+}
